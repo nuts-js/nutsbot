@@ -1,0 +1,2 @@
+# nutsbot
+Discord.jsのBOT
